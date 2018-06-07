@@ -1,2 +1,2 @@
 # hello-world
-Just another repository
+Just another repositoryThe coffe is always a good idea!
